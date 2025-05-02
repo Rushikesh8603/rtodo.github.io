@@ -1,22 +1,17 @@
-📝 React Todo App
-A simple, responsive To-Do List web application built using React.js, designed to help users manage daily tasks efficiently.
+# 📝 React Todo App
 
-🔧 Tech Stack
-Frontend: React.js, HTML, CSS
+A simple, responsive **To-Do List web application** built using **React.js**, designed to help users manage daily tasks efficiently.
 
-State Management: React Hooks (useState, useEffect)
+## 🔧 Tech Stack
+- **Frontend**: React.js, HTML, CSS
+- **State Management**: React Hooks (`useState`, `useEffect`)
+- **Storage**: Browser LocalStorage (persistent tasks across sessions)
+- **UI Enhancements**: `react-icons`, `uuid` for unique task IDs
 
-Storage: Browser LocalStorage (persistent tasks across sessions)
+## ✅ Features
+- Add, edit, delete tasks
+- Mark tasks as completed
+- Filter completed vs active tasks
+- Save tasks to localStorage
+- Clean, user-friendly interface
 
-UI Enhancements: react-icons, uuid for unique task IDs
-
-✅ Features
-Add, edit, delete tasks
-
-Mark tasks as completed
-
-Filter completed vs active tasks
-
-Save tasks to localStorage
-
-Clean, user-friendly interface
